@@ -36,5 +36,35 @@ console.log(`Kelvin: ${kelvin}K`);
 console.log(`Celsius: ${celsius}°C`);
 console.log(`Fahrenheit: ${fahrenheit}°F`);
 console.log(`Newton: ${newton}°N`);
+
+```
+
+---
+
+#### Output
+
+```
+🔥 Temperature Converter Results 🔥
+----------------------------------
+Kelvin: 293K
+Celsius: 20°C
+Fahrenheit: 68°F
+Newton: 6°N
+----------------------------------
+✅ Conversion Complete!
+```
+
+Another possible run:
+```
+🔥 Temperature Converter Results 🔥
+----------------------------------
+Kelvin: 310K
+Celsius: 37°C
+Fahrenheit: 98°F
+Newton: 12°N
+----------------------------------
+✅ Conversion Complete!
+```
+
 console.log("----------------------------------");
 console.log("✅ Conversion Complete!");
