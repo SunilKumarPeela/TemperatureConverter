@@ -66,5 +66,4 @@ Newton: 12°N
 ✅ Conversion Complete!
 ```
 
-console.log("----------------------------------");
-console.log("✅ Conversion Complete!");
+
